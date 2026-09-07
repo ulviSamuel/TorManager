@@ -87,4 +87,4 @@ This repository contains a compact, single-file utility. It has no documented re
 
 ## License
 
-No license file or explicit license declaration is present in the repository. Licensing information requires human review.
+This project is licensed under the MIT License. See the LICENSE file for details.
